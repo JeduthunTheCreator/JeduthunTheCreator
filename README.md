@@ -14,19 +14,25 @@ Welcome to my GitHub space! I’m a **Full-Stack Developer** passionate about bu
 
 ## 🛠️ Technologies and Tools 
 
-
-Java | C++ | JavaScript | HTML | CSS | Python | SQL | Cloud Platforms | Big Data Tools | ML Libraries
+<p align="center">
+  <a href="https://skillicons.dev" >
+    <img src="https://skillicons.dev/icons?i=java,cpp,sqlite,py,html,css,bash,ts,js,react,nextjs,nodejs,matlab,bootstrap,tensorflow,opencv,tailwind,pytorch,opencv,mongodb,rabbitmq,redis,docker,kubernetes,azure,linux,gcp,ros,postman" >
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
+<a href="https://www.linkedin.com/in/jeduthun-idemudia-116309288" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+
 ---
 
-## 💼 Featured Project
+##  📈 Github Stats
 
-### [MyWebsitePortfolio](https://jeduthunidemudia.netlify.app)
-A vibrant portfolio website crafted with JavaScript, HTML, and CSS—showcasing my technical journey, projects, and creative edge.
 
 ---
 
