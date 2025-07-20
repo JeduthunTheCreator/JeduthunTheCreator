@@ -12,7 +12,7 @@
 - 🚀 **Profession:** Full-Stack Developer
 - 🌍 **Location**: London, United Kingdom
 - 💡 **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
-- 🎸 **Hobbies:** Playing the Guitar & Modelling
+- 🎸 **Hobbies:** Playing the Guitar 🎸 | Basketball 🏀 | Calisthenics 💪
 
 ---
 
@@ -51,11 +51,7 @@
   <table>
     <tr>
       <td> 
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeduthunTheCreator/JeduthunTheCreator/output/pacman-contribution-graph-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeduthunTheCreator/JeduthunTheCreator/output/pacman-contribution-graph.svg">
-          <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeduthunTheCreator/JeduthunTheCreator/output/pacman-contribution-graph.svg">
-        </picture>
+        <img src="https://raw.githubusercontent.com/JeduthunTheCreator/JeduthunTheCreator/output/snake.svg" alt="Snake animation" />
       </td>
     </tr>
   </table>
