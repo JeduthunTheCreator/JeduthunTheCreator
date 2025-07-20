@@ -51,7 +51,7 @@
   <table>
     <tr>
       <td> 
-        <img src="https://raw.githubusercontent.com/JeduthunTheCreator/JeduthunTheCreator/output/snake.svg" alt="Snake animation" />
+            <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeduthunTheCreator/JeduthunTheCreator/output/pacman-contribution-graph-dark.svg">
       </td>
     </tr>
   </table>
