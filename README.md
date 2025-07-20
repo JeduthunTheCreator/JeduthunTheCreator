@@ -9,15 +9,17 @@ Welcome to my GitHub space! I’m a **Full-Stack Developer** passionate about bu
 - 🚀 **Profession:** Full-Stack Developer
 - 💡 **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
 - 🎸 **Hobbies:** Playing the Guitar & Modelling
-- ✨ **Philosophy:** _"Create for its the Soul's Medicine"_
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies and Tools 
 
-```
+
 Java | C++ | JavaScript | HTML | CSS | Python | SQL | Cloud Platforms | Big Data Tools | ML Libraries
-```
+
+---
+
+## 🌐 Connect with Me
 
 ---
 
@@ -25,14 +27,6 @@ Java | C++ | JavaScript | HTML | CSS | Python | SQL | Cloud Platforms | Big Data
 
 ### [MyWebsitePortfolio](https://jeduthunidemudia.netlify.app)
 A vibrant portfolio website crafted with JavaScript, HTML, and CSS—showcasing my technical journey, projects, and creative edge.
-
----
-
-## 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/jeduthun-idemudia-116309288" target="blank">
-  <img src=
-- [Portfolio Website](https://jeduthunidemudia.netlify.app)
 
 ---
 
@@ -49,6 +43,8 @@ Let's build something amazing together!
 ```
 
 **_"Create for its the Soul's Medicine"_**
+
+```
 
 ###
 
