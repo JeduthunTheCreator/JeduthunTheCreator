@@ -16,6 +16,13 @@ Welcome to my GitHub space! I’m a **Full-Stack Developer** passionate about bu
 
 ---
 
+## 📞 Contact
+
+- 📧 **Email**: [idemudiajeduthun@gmail.com](mailto:idemudiajeduthun@gmail.com)
+- 🌐 **Portfolio**: [jeduthunidemudia.com](https://jeduthunidemudia.nelify.app/)
+
+---
+
 ## 🛠️ Technologies and Tools 
 
 <p align="center">
