@@ -4,20 +4,19 @@ Welcome to my GitHub space! I’m a **Full-Stack Developer** passionate about bu
 
 ---
 
-## 🌟 About Me
+## 👤 About Me
 
 - 🚀 **Profession:** Full-Stack Developer
-- 💡 **Skills:** Java, C++, Big Data, Machine Learning & AI, Cloud Computing
+- 💡 **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
 - 🎸 **Hobbies:** Playing the Guitar & Modelling
-- 👗 **Interests:** AI, Cloud, Big Data, and Fashion
 - ✨ **Philosophy:** _"Create for its the Soul's Medicine"_
 
 ---
 
 ## 🛠️ Tech Stack
 
-```java
-Java | C++ | JavaScript | HTML | CSS | Python | Cloud Platforms | Big Data Tools | ML Libraries
+```
+Java | C++ | JavaScript | HTML | CSS | Python | SQL | Cloud Platforms | Big Data Tools | ML Libraries
 ```
 
 ---
@@ -31,7 +30,8 @@ A vibrant portfolio website crafted with JavaScript, HTML, and CSS—showcasing 
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jeduthun-idemudia-116309288)
+<a href="https://www.linkedin.com/in/jeduthun-idemudia-116309288" target="blank">
+  <img src=
 - [Portfolio Website](https://jeduthunidemudia.netlify.app)
 
 ---
@@ -49,3 +49,11 @@ Let's build something amazing together!
 ```
 
 **_"Create for its the Soul's Medicine"_**
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
