@@ -59,5 +59,6 @@
 - Always eager to collaborate, learn, and create in new, exciting domains.
 
 ---
-
-Let's build something amazing together!
+<div align="left">
+  <h3>✨ Thanks for visiting! Feel free to connect and let's build something amazing together! ✨</h3>
+</div>
