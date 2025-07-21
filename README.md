@@ -1,5 +1,9 @@
 <div>
-  <h1>
+  <p align="center">
+    <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJjc284d2hwZ3Fvd3NlOW9wMTh3YTk5YXMzNzlsNHNqdHFwZTl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+  </p>
+  
+  <h1 align="right">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=30&pause=1000&color=080E4B&width=600&lines=+Hi%2C+I%E2%80%99m+Jeduthun+%F0%9F%91%8B" alt="Typing SVG" />
     </a>
