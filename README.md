@@ -19,7 +19,7 @@
 ## 📞 Contact
 
 - 📧 **Email**: [idemudiajeduthun@gmail.com](mailto:idemudiajeduthun@gmail.com)
-- 🌐 **Portfolio**: [(https://jeduthunidemudia.nelify.app/)](https://jeduthunidemudia.netlify.app/)
+- 🌐 **Portfolio**: [(https://jeduthunidemudia.netlify.app/)](https://jeduthunidemudia.netlify.app/)
 
 ---
 
