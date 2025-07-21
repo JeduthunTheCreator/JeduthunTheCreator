@@ -8,20 +8,11 @@
 </div>
 
 ## 👤 About Me
-<table>
-  <tr>
-    <td style="border:none">
 
 - 🚀 **Profession:** Full-Stack Developer
 - 🌍 **Location**: London, United Kingdom
 - 💡 **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
 - 🎸 **Hobbies:** Playing the Guitar 🎸 | Basketball 🏀 | Calisthenics 💪
-    </td>
-    <td style="border:none" align="right">
-      <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJjc284d2hwZ3Fvd3NlOW9wMTh3YTk5YXMzNzlsNHNqdHFwZTl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-    </td>
-  </tr>  
-</table>
 
 ---
 
@@ -33,15 +24,22 @@
 ---
 
 ## 🛠️ Technologies and Tools 
-
-<p align="center">
-  <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=java,cpp,sqlite,py,html,css,bash,ts,js,react,nextjs,nodejs,matlab,bootstrap,tensorflow,opencv,tailwind,pytorch,opencv,mongodb,rabbitmq,redis,docker,kubernetes,azure,linux,gcp,ros,postman" >
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        <a href="https://skillicons.dev" >
+          <img src="https://skillicons.dev/icons?i=java,cpp,sqlite,py,html,css,bash,ts,js,react,nextjs,nodejs,matlab,bootstrap,tensorflow,opencv,tailwind,pytorch,opencv,mongodb,rabbitmq,redis,docker,kubernetes,azure,linux,gcp,ros,postman" >
+        </a>
+      </p>
+    </td>
+    <td>
+       <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJjc284d2hwZ3Fvd3NlOW9wMTh3YTk5YXMzNzlsNHNqdHFwZTl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+    </td>
+  </tr>
+</table>
 
 ---
-
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/jeduthun-idemudia-116309288" target="_blank">
