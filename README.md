@@ -61,7 +61,7 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeduthunTheCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
       </td>
       <td style="width:50%;">
-          <img src="https://github-readme-stats.vercel.app/api?username=JeduthunTheCreator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+          <img src="https://github-readme-stats.vercel.app/api?username=JeduthunTheCreator)](https://github.com/JeduthunTheCreator/github-readme-stats)alt="stats graph"  />
       </td>
     </tr>
     <tr>
@@ -77,9 +77,9 @@
 
 ## 🌱 Currently Learning
 
-- I seamlessly blend my love for tech with the art of fashion and music.
-- You might find me coding to the rhythm of a guitar or designing a new look for the runway!
-- Always eager to collaborate, learn, and create in new, exciting domains.
+- 🔐 **Penetration Testing**: Deepening my knowledge of computer networking and ethical hacking.  
+- 🔁 **RESTful Systems**: Building scalable and flexible API-driven projects.  
+- ☁️🤖 **Cloud & AI Integrations**: Migrating systems to the cloud and integrating automated AI workloads.
 
 ---
 <div align="left">
