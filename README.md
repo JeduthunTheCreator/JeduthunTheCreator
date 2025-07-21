@@ -1,9 +1,5 @@
-<div>
-  <p align="center">
-    <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJjc284d2hwZ3Fvd3NlOW9wMTh3YTk5YXMzNzlsNHNqdHFwZTl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-  </p>
-  
-  <h1 align="right">
+<div>  
+  <h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=30&pause=1000&color=080E4B&width=600&lines=+Hi%2C+I%E2%80%99m+Jeduthun+%F0%9F%91%8B" alt="Typing SVG" />
     </a>
@@ -12,11 +8,20 @@
 </div>
 
 ## 👤 About Me
+<table>
+  <tr>
+    <td style="border:none">
 
 - 🚀 **Profession:** Full-Stack Developer
 - 🌍 **Location**: London, United Kingdom
 - 💡 **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
 - 🎸 **Hobbies:** Playing the Guitar 🎸 | Basketball 🏀 | Calisthenics 💪
+    </td>
+    <td style="border:none" align="right">
+      <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJjc284d2hwZ3Fvd3NlOW9wMTh3YTk5YXMzNzlsNHNqdHFwZTl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+    </td>
+  </tr>  
+</table>
 
 ---
 
