@@ -1,5 +1,5 @@
 <div>  
-  <h1>
+  <h1 align="right">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=30&pause=1000&color=080E4B&width=600&lines=+Hi%2C+I%E2%80%99m+Jeduthun+%F0%9F%91%8B" alt="Typing SVG" />
     </a>
