@@ -53,7 +53,7 @@
 
 ---
 
-##  📈 Github Stats
+<!-- ##  📈 Github Stats
 
 <div>
   <table align="center" style="width:100%;">
@@ -72,9 +72,8 @@
     </tr>
   </table>
 </div>
+-->
 
-
----
 
 ## 🌱 Currently Learning
 
