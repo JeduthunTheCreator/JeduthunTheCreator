@@ -40,7 +40,7 @@
   </tr>
 </table>
 
----
+<!---
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/jeduthun-idemudia-116309288" target="_blank">
@@ -50,6 +50,7 @@
 <a href="https://discord.com/channels/jedutunthecreator" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </a>
+-->
 
 ---
 
