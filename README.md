@@ -29,7 +29,7 @@
     <td>
       <p align="left">
         <a href="https://skillicons.dev" >
-          <img src="https://skillicons.dev/icons?i=java,cpp,sqlite,py,html,css,bash,ts,js,react,nextjs,nodejs,matlab,bootstrap,tensorflow,opencv,tailwind,pytorch,opencv,mongodb,rabbitmq,redis,docker,kubernetes,azure,linux,gcp,ros,postman" >
+          <img src="https://skillicons.dev/icons?i=java,cpp,sqlite,py,css,bash,ts,js,nextjs,nodejs,tensorflow,pytorch,opencv,mongodb,redis,docker,kubernetes,azure,linux,ros" >
         </a>
       </p>
     </td>
