@@ -15,13 +15,12 @@
 - 🎸 **Hobbies:** Playing the Guitar 🎸 | Basketball 🏀 | Calisthenics 💪 | Reading 📖
 - 💡 **Fun Fact:** When I'm not coding, I'm exploring opportunities in fashion as an aspiring model.
 
----
-
+<!--
 ## 📞 Contact
 
 - 📧 **Email**: [idemudiajeduthun@gmail.com](mailto:idemudiajeduthun@gmail.com)
 - 🌐 **Portfolio**: [(https://jeduthunidemudia.netlify.app/)](https://jeduthunidemudia.netlify.app/)
-
+-->
 ---
 
 ## 🛠️ Technologies and Tools 
