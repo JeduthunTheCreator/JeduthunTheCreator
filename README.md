@@ -10,7 +10,6 @@
 ## 👤 About Me
 
 - 🚀 **Profession:** AI Engineer / Full-Stack Developer 
-- 🌍 **Location**: London, United Kingdom
 - 💡 **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
 - 🎸 **Hobbies:** Playing the Guitar 🎸 | Basketball 🏀 | Calisthenics 💪 | Reading 📖
 - 💡 **Fun Fact:** When I'm not coding, I'm exploring opportunities in fashion as an aspiring model.
