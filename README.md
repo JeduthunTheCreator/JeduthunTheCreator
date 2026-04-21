@@ -9,7 +9,7 @@
 
 ## 👤 About Me
 
-- 🚀 **Profession:** AI Engineer / Full-Stack Developer 
+- 🚀 **Profession:** Data & Cloud Engineer 
 - 💡 **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
 - 🎸 **Hobbies:** Playing the Guitar 🎸 | Basketball 🏀 | Calisthenics 💪 | Reading 📖
 - 💡 **Fun Fact:** When I'm not coding, I'm exploring opportunities in fashion as an aspiring model.
@@ -28,7 +28,7 @@
     <td>
       <p align="left">
         <a href="https://skillicons.dev" >
-          <img src="https://skillicons.dev/icons?i=java,cpp,sqlite,py,css,bash,ts,js,nextjs,nodejs,tensorflow,pytorch,opencv,mongodb,redis,docker,kubernetes,azure,linux,ros" >
+          <img src="https://skillicons.dev/icons?i=py,r,sqlite,java,cpp,bash,mongodb,redis,ts,js,react,pytorch,nodejs,tensorflow,flask,opencv,django,fastapi,docker,kubernetes,azure,aws,linux,ros" >
         </a>
       </p>
     </td>
