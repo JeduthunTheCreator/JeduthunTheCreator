@@ -28,7 +28,7 @@
     <td>
       <p align="left">
         <a href="https://skillicons.dev" >
-          <img src="https://skillicons.dev/icons?i=py,r,sqlite,java,cpp,bash,mongodb,redis,ts,js,react,pytorch,nodejs,tensorflow,flask,opencv,django,fastapi,docker,kubernetes,azure,aws,linux,ros" >
+          <img src="https://skillicons.dev/icons?i=py,r,sqlite,java,eclipse,yarn,cpp,bash,mongodb,redis,ts,js,react,pytorch,nodejs,tensorflow,sklearn,flask,opencv,django,fastapi,docker,kubernetes,azure,aws,linux,ros" >
         </a>
       </p>
     </td>
