@@ -4,15 +4,12 @@
       <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=30&pause=1000&color=080E4B&width=600&lines=+Hi%2C+I%E2%80%99m+Jeduthun+%F0%9F%91%8B" alt="Typing SVG" />
     </a>
   </h1>
-  <p> Welcome to my GitHub space! I’m a <strong> Full-Stack Developer </strong> passionate about building, innovating, and connecting technology with creativity. </p>
+  <p> Welcome to my GitHub space! I’m a <strong> Data & Cloud Engineer  </strong> passionate about building, innovating, and connecting technology with creativity. </p>
 </div>
 
 ## 👤 About Me
 
-- 🚀 **Profession:** Data & Cloud Engineer 
 - 💡 **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
-- 🎸 **Hobbies:** Playing the Guitar 🎸 | Basketball 🏀 | Calisthenics 💪 | Reading 📖
-- 💡 **Fun Fact:** When I'm not coding, I'm exploring opportunities in fashion as an aspiring model.
 
 <!--
 ## 📞 Contact
@@ -38,7 +35,7 @@
   </tr>
 </table>
 
-<!---
+
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/jeduthun-idemudia-116309288" target="_blank">
@@ -48,14 +45,15 @@
 <a href="https://discord.com/channels/jedutunthecreator" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </a>
--->
+
 
 ---
 
-<!-- ##  📈 Github Stats
+##  📈 Github Stats
 
 <div>
   <table align="center" style="width:100%;">
+    <!--
     <tr>
       <td style="width:50%;">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeduthunTheCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -64,6 +62,7 @@
           <img src="https://github-readme-stats.vercel.app/api?username=JeduthunTheCreator&theme=tokyonight&show_icons=true&hide=stars" />
       </td>
     </tr>
+    -->
     <tr>
       <td colspan="2"> 
           <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeduthunTheCreator/JeduthunTheCreator/output/pacman-contribution-graph-dark.svg" style="width:100%;">
@@ -71,7 +70,6 @@
     </tr>
   </table>
 </div>
--->
 
 
 ## 🌱 Currently Learning
