@@ -52,16 +52,14 @@
 
 <div>
   <table align="center" style="width:100%;">
-    <!--
     <tr>
       <td style="width:50%;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeduthunTheCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+          <img src="https://github-readme-stats-rho-ochre-14.vercel.app/api/top-langs?username=JeduthunTheCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
       </td>
       <td style="width:50%;">
-          <img src="https://github-readme-stats.vercel.app/api?username=JeduthunTheCreator&theme=tokyonight&show_icons=true&hide=stars" />
+          <img src="https://github-readme-stats-rho-ochre-14.vercel.app/api?username=JeduthunTheCreator&theme=tokyonight&show_icons=true&hide=stars" />
       </td>
     </tr>
-    -->
     <tr>
       <td colspan="2"> 
           <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeduthunTheCreator/JeduthunTheCreator/output/pacman-contribution-graph-dark.svg" style="width:100%;">
