@@ -9,12 +9,12 @@
 
 ## 👤 About Me
 
-- 💡 **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
+- **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
 
 ## 📞 Contact
 
-- 📧 **Email**: [idemudiajeduthun@gmail.com](mailto:idemudiajeduthun@gmail.com)
-- 🌐 **Portfolio**: [(https://jeduthunidemudia.netlify.app/)](https://jeduthunidemudia.netlify.app/)
+- **Email**: [idemudiajeduthun@gmail.com](mailto:idemudiajeduthun@gmail.com)
+- **Portfolio**: [(https://jeduthunidemudia.netlify.app/)](https://jeduthunidemudia.netlify.app/)
 
 ---
 
@@ -73,9 +73,9 @@
 
 ## 🌱 Currently Exploring
 
-- 🔐 **Penetration Testing**: Deepening my knowledge of computer networking and ethical hacking.  
-- 🔁 **RESTful Systems**: Building scalable and flexible API-driven projects.  
-- ☁️🤖 **Cloud & AI Integrations**: Migrating systems to the cloud and integrating automated AI workloads.
+- **Penetration Testing**: Deepening my knowledge of computer networking and ethical hacking.  
+- **RESTful Systems**: Building scalable and flexible API-driven projects.  
+- **Cloud & AI Integrations**: Migrating systems to the cloud and integrating automated AI workloads.
 
 ---
 <div align="left">
