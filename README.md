@@ -7,18 +7,18 @@
   <p> Welcome to my GitHub space! I’m a <strong> Data & Cloud Engineer  </strong> passionate about building, innovating, and connecting technology with creativity. </p>
 </div>
 
-## 👤 About Me
+## About Me
 
 - **Interests:** Big Data Analytics, Cloud Computing, Cognitive Computing, Networking 
 
-## 📞 Contact
+## Contact
 
 - **Email**: [idemudiajeduthun@gmail.com](mailto:idemudiajeduthun@gmail.com)
 - **Portfolio**: [(https://jeduthunidemudia.netlify.app/)](https://jeduthunidemudia.netlify.app/)
 
 ---
 
-## 🛠️ Technologies and Tools 
+## Technologies and Tools 
 <table>
   <tr>
     <td>
@@ -36,7 +36,7 @@
 
 <!--
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <a href="https://www.linkedin.com/in/jeduthun-idemudia-116309288" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -50,7 +50,7 @@
 
 ---
 
-##  📈 Github Stats
+## Github Stats
 
 <div>
   <table align="center" style="width:100%;">
@@ -71,13 +71,9 @@
 </div>
 
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - **Penetration Testing**: Deepening my knowledge of computer networking and ethical hacking.  
 - **RESTful Systems**: Building scalable and flexible API-driven projects.  
 - **Cloud & AI Integrations**: Migrating systems to the cloud and integrating automated AI workloads.
 
----
-<div align="left">
-  <h3>✨ Thanks for visiting! Feel free to connect and let's build something amazing together! ✨</h3>
-</div>
