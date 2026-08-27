@@ -4,7 +4,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=30&pause=1000&color=080E4B&width=600&lines=+Hi%2C+I%E2%80%99m+Jeduthun+%F0%9F%91%8B" alt="Typing SVG" />
     </a>
   </h1>
-  <p> Welcome to my GitHub space! I’m a <strong> Data & Cloud Engineer  </strong> passionate about building, innovating, and connecting technology with creativity. </p>
+  <p> Welcome to my GitHub space! I’m a <strong> Data & ML Engineer  </strong> passionate about building, innovating, and connecting technology with creativity. </p>
 </div>
 
 ## About Me
